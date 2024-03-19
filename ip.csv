@@ -78,3 +78,7 @@ IP地址,端口,TLS,数据中心,地区,城市,TCP延迟(ms),下载速度
 104.19.120.183,443,TRUE,SJC,North America,San Jose,173 ms,15188
 162.159.194.183,443,TRUE,SJC,North America,San Jose,184 ms,15147
 103.184.44.74,443,TRUE,SJC,North America,San Jose,151 ms,15141
+172.67.135.63,443,TRUE,HKG-移动,Asia Pacific,Hong Kong,72 ms,9321
+172.67.183.170,443,TRUE,HKG-移动,Asia Pacific,Hong Kong,61 ms,9070
+172.67.175.61,443,TRUE,HKG-移动,Asia Pacific,Hong Kong,83 ms,8990
+172.67.172.76,443,TRUE,HKG-移动,Asia Pacific,Hong Kong,80 ms,7704
