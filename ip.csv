@@ -82,3 +82,4 @@ IP地址,端口,TLS,数据中心,地区,城市,TCP延迟(ms),下载速度
 172.67.183.170,443,TRUE,HKG-移动,Asia Pacific,Hong Kong,61 ms,9070
 172.67.175.61,443,TRUE,HKG-移动,Asia Pacific,Hong Kong,83 ms,8990
 172.67.172.76,443,TRUE,HKG-移动,Asia Pacific,Hong Kong,80 ms,7704
+172.67.96.84,443,TRUE,HKG-移动,Asia Pacific,Hong Kong,104 ms,3111
