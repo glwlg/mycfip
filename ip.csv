@@ -1,83 +1,87 @@
 IP地址,端口,TLS,数据中心,地区,城市,TCP延迟(ms),下载速度
-162.159.195.183,443,TRUE,US-电信,North America,San Jose,176 ms,12943
-162.159.193.183,443,TRUE,US-电信,North America,San Jose,156 ms,5206
-172.64.50.183,443,TRUE,US-电信,North America,San Jose,158 ms,17710
-104.17.88.240,443,TRUE,US-电信,North America,San Jose,149 ms,17303
-162.159.49.183,443,TRUE,US-电信,North America,San Jose,174 ms,17227
-104.18.195.121,443,TRUE,US-电信,North America,San Jose,172 ms,17187
-103.184.44.214,443,TRUE,US-电信,North America,San Jose,150 ms,17169
-104.19.115.183,443,TRUE,US-电信,North America,San Jose,169 ms,17110
-104.19.179.200,443,TRUE,US-电信,North America,San Jose,144 ms,17096
-104.16.73.75,443,TRUE,US-电信,North America,San Jose,177 ms,17081
-104.17.90.183,443,TRUE,US-电信,North America,San Jose,169 ms,16953
-104.19.76.183,443,TRUE,US-电信,North America,San Jose,171 ms,16949
-172.64.166.10,443,TRUE,US-电信,North America,San Jose,156 ms,16825
-104.18.76.183,443,TRUE,US-电信,North America,San Jose,140 ms,16819
-104.19.106.183,443,TRUE,US-电信,North America,San Jose,138 ms,16810
-91.193.58.201,443,TRUE,US-电信,North America,San Jose,150 ms,16808
-104.16.75.183,443,TRUE,US-电信,North America,San Jose,143 ms,16758
-162.159.15.159,443,TRUE,US-电信,North America,San Jose,175 ms,16757
-103.184.44.200,443,TRUE,US-电信,North America,San Jose,170 ms,16603
-104.17.247.231,443,TRUE,US-电信,North America,San Jose,155 ms,16601
-104.16.94.183,443,TRUE,US-电信,North America,San Jose,169 ms,16562
-103.184.45.103,443,TRUE,US-电信,North America,San Jose,140 ms,16555
-172.64.152.183,443,TRUE,US-电信,North America,San Jose,170 ms,16525
-103.184.45.144,443,TRUE,US-电信,North America,San Jose,141 ms,16467
-104.17.187.183,443,TRUE,US-电信,North America,San Jose,143 ms,16423
-103.184.45.174,443,TRUE,US-电信,North America,San Jose,139 ms,16410
-104.16.195.183,443,TRUE,US-电信,North America,San Jose,176 ms,16390
-103.184.45.227,443,TRUE,US-电信,North America,San Jose,168 ms,16366
-172.64.99.0,443,TRUE,US-电信,North America,San Jose,139 ms,16355
-104.19.23.183,443,TRUE,US-电信,North America,San Jose,173 ms,16285
-104.16.65.183,443,TRUE,US-电信,North America,San Jose,144 ms,16285
-104.18.10.161,443,TRUE,US-电信,North America,San Jose,173 ms,16275
-103.184.44.83,443,TRUE,US-电信,North America,San Jose,220 ms,16273
-103.184.44.215,443,TRUE,US-电信,North America,San Jose,154 ms,16269
-172.64.148.183,443,TRUE,US-电信,North America,San Jose,167 ms,16228
-104.16.248.183,443,TRUE,US-电信,North America,San Jose,139 ms,16220
-104.18.101.90,443,TRUE,US-电信,North America,San Jose,170 ms,16188
-104.19.213.43,443,TRUE,US-电信,North America,San Jose,142 ms,16146
-108.162.195.8,443,TRUE,US-电信,North America,San Jose,172 ms,16091
-104.17.116.8,443,TRUE,US-电信,North America,San Jose,176 ms,16073
-172.64.101.183,443,TRUE,US-电信,North America,San Jose,156 ms,15898
-172.64.163.183,443,TRUE,US-电信,North America,San Jose,150 ms,15880
-104.17.242.183,443,TRUE,US-电信,North America,San Jose,152 ms,15846
-104.17.114.183,443,TRUE,US-电信,North America,San Jose,161 ms,15822
-104.18.161.183,443,TRUE,US-电信,North America,San Jose,179 ms,15800
-104.21.227.183,443,TRUE,US-电信,North America,Los Angeles,149 ms,15757
-103.184.45.195,443,TRUE,US-电信,North America,San Jose,139 ms,15717
-104.16.221.183,443,TRUE,US-电信,North America,San Jose,190 ms,15714
-172.64.86.183,443,TRUE,US-电信,North America,San Jose,139 ms,15712
-172.64.131.183,443,TRUE,US-电信,North America,San Jose,146 ms,15656
-172.64.110.183,443,TRUE,US-电信,North America,San Jose,154 ms,15601
-104.21.227.153,443,TRUE,US-电信,North America,Los Angeles,163 ms,15591
-172.64.162.107,443,TRUE,US-电信,North America,San Jose,150 ms,15586
-104.16.255.183,443,TRUE,US-电信,North America,San Jose,148 ms,15536
-172.64.98.183,443,TRUE,US-电信,North America,San Jose,179 ms,15520
-104.19.246.183,443,TRUE,US-电信,North America,Los Angeles,161 ms,15514
-103.184.44.124,443,TRUE,US-电信,North America,San Jose,172 ms,15510
-104.17.181.73,443,TRUE,US-电信,North America,San Jose,148 ms,15499
-162.159.36.89,443,TRUE,US-电信,North America,San Jose,137 ms,15494
-103.184.45.247,443,TRUE,US-电信,North America,San Jose,177 ms,15491
-104.17.57.183,443,TRUE,US-电信,North America,San Jose,172 ms,15489
-64.68.192.183,443,TRUE,US-电信,North America,San Jose,184 ms,15488
-104.17.166.183,443,TRUE,US-电信,North America,San Jose,171 ms,15475
-104.18.67.183,443,TRUE,US-电信,North America,San Jose,169 ms,15469
-172.64.172.183,443,TRUE,US-电信,North America,San Jose,149 ms,15459
-104.17.219.15,443,TRUE,US-电信,North America,San Jose,150 ms,15457
-104.21.225.183,443,TRUE,US-电信,North America,Los Angeles,156 ms,15404
-104.18.189.183,443,TRUE,US-电信,North America,San Jose,139 ms,15402
-103.184.44.190,443,TRUE,US-电信,North America,San Jose,140 ms,15366
-103.184.45.254,443,TRUE,US-电信,North America,San Jose,180 ms,15328
-141.101.114.183,443,TRUE,US-电信,North America,San Jose,177 ms,15319
-104.18.150.172,443,TRUE,US-电信,North America,San Jose,136 ms,15292
-162.159.194.46,443,TRUE,US-电信,North America,San Jose,139 ms,15287
-104.18.86.183,443,TRUE,US-电信,North America,San Jose,186 ms,15282
-104.18.175.240,443,TRUE,US-电信,North America,San Jose,164 ms,15277
-104.17.221.183,443,TRUE,US-电信,North America,San Jose,148 ms,15198
-104.19.120.183,443,TRUE,US-电信,North America,San Jose,173 ms,15188
-162.159.194.183,443,TRUE,US-电信,North America,San Jose,184 ms,15147
-103.184.44.74,443,TRUE,US-电信,North America,San Jose,151 ms,15141
+172.64.50.183,443,TRUE,SJC-电信,North America,San Jose,158 ms,17710
+104.17.88.240,443,TRUE,SJC-电信,North America,San Jose,149 ms,17303
+162.159.49.183,443,TRUE,SJC-电信,North America,San Jose,174 ms,17227
+104.18.195.121,443,TRUE,SJC-电信,North America,San Jose,172 ms,17187
+103.184.44.214,443,TRUE,SJC-电信,North America,San Jose,150 ms,17169
+104.19.115.183,443,TRUE,SJC-电信,North America,San Jose,169 ms,17110
+104.19.179.200,443,TRUE,SJC-电信,North America,San Jose,144 ms,17096
+104.16.73.75,443,TRUE,SJC-电信,North America,San Jose,177 ms,17081
+104.17.90.183,443,TRUE,SJC-电信,North America,San Jose,169 ms,16953
+104.19.76.183,443,TRUE,SJC-电信,North America,San Jose,171 ms,16949
+172.64.166.10,443,TRUE,SJC-电信,North America,San Jose,156 ms,16825
+104.18.76.183,443,TRUE,SJC-电信,North America,San Jose,140 ms,16819
+104.19.106.183,443,TRUE,SJC-电信,North America,San Jose,138 ms,16810
+91.193.58.201,443,TRUE,SJC-电信,North America,San Jose,150 ms,16808
+104.16.75.183,443,TRUE,SJC-电信,North America,San Jose,143 ms,16758
+162.159.15.159,443,TRUE,SJC-电信,North America,San Jose,175 ms,16757
+103.184.44.200,443,TRUE,SJC-电信,North America,San Jose,170 ms,16603
+104.17.247.231,443,TRUE,SJC-电信,North America,San Jose,155 ms,16601
+104.16.94.183,443,TRUE,SJC-电信,North America,San Jose,169 ms,16562
+103.184.45.103,443,TRUE,SJC-电信,North America,San Jose,140 ms,16555
+172.64.152.183,443,TRUE,SJC-电信,North America,San Jose,170 ms,16525
+103.184.45.144,443,TRUE,SJC-电信,North America,San Jose,141 ms,16467
+104.17.187.183,443,TRUE,SJC-电信,North America,San Jose,143 ms,16423
+103.184.45.174,443,TRUE,SJC-电信,North America,San Jose,139 ms,16410
+104.16.195.183,443,TRUE,SJC-电信,North America,San Jose,176 ms,16390
+103.184.45.227,443,TRUE,SJC-电信,North America,San Jose,168 ms,16366
+172.64.99.0,443,TRUE,SJC-电信,North America,San Jose,139 ms,16355
+104.21.227.183,443,TRUE,LAX-电信,North America,Los Angeles,149 ms,15757
+104.21.227.153,443,TRUE,LAX-电信,North America,Los Angeles,163 ms,15591
+104.19.246.183,443,TRUE,LAX-电信,North America,Los Angeles,161 ms,15514
+104.21.225.183,443,TRUE,LAX-电信,North America,Los Angeles,156 ms,15404
+104.18.125.183,443,TRUE,LAX-电信,North America,Los Angeles,170 ms,14701
+104.19.143.89,443,TRUE,LAX-电信,North America,Los Angeles,150 ms,14646
+104.19.136.183,443,TRUE,LAX-电信,North America,Los Angeles,175 ms,14564
+104.21.234.254,443,TRUE,LAX-电信,North America,Los Angeles,155 ms,14530
+104.19.132.250,443,TRUE,LAX-电信,North America,Los Angeles,167 ms,14069
+104.18.120.183,443,TRUE,LAX-电信,North America,Los Angeles,166 ms,13983
+104.18.123.183,443,TRUE,LAX-电信,North America,Los Angeles,168 ms,13982
+104.21.226.183,443,TRUE,LAX-电信,North America,Los Angeles,154 ms,13976
+104.19.247.183,443,TRUE,LAX-电信,North America,Los Angeles,163 ms,13916
+104.21.234.183,443,TRUE,LAX-电信,North America,Los Angeles,163 ms,13763
+104.21.239.183,443,TRUE,LAX-电信,North America,Los Angeles,228 ms,13666
+104.19.137.35,443,TRUE,LAX-电信,North America,Los Angeles,167 ms,13503
+104.21.228.183,443,TRUE,LAX-电信,North America,Los Angeles,158 ms,13311
+104.19.141.183,443,TRUE,LAX-电信,North America,Los Angeles,174 ms,13272
+104.18.30.183,443,TRUE,LAX-电信,North America,Los Angeles,160 ms,13111
+104.21.232.68,443,TRUE,LAX-电信,North America,Los Angeles,179 ms,13100
+104.19.243.183,443,TRUE,LAX-电信,North America,Los Angeles,149 ms,12851
+162.159.253.120,443,TRUE,LAX-电信,North America,Los Angeles,187 ms,12829
+104.19.138.183,443,TRUE,LAX-电信,North America,Los Angeles,160 ms,12828
+104.18.127.183,443,TRUE,LAX-电信,North America,Los Angeles,158 ms,12653
+104.18.16.183,443,TRUE,LAX-电信,North America,Los Angeles,174 ms,12462
+104.21.214.183,443,TRUE,LHR-电信,Europe,London,205 ms,11705
+104.21.18.74,443,TRUE,LHR-电信,Europe,London,211 ms,11679
+104.21.68.57,443,TRUE,LHR-电信,Europe,London,209 ms,11266
+104.21.116.73,443,TRUE,LHR-电信,Europe,London,186 ms,11072
+104.20.83.106,443,TRUE,IAD-电信,North America,Ashburn,217 ms,10889
+104.25.146.183,443,TRUE,IAD-电信,North America,Ashburn,230 ms,10725
+104.21.72.183,443,TRUE,LHR-电信,Europe,London,210 ms,10662
+104.21.100.217,443,TRUE,LHR-电信,Europe,London,212 ms,10597
+104.22.56.53,443,TRUE,IAD-电信,North America,Ashburn,220 ms,10552
+104.21.21.183,443,TRUE,LHR-电信,Europe,London,188 ms,10543
+172.67.97.183,443,TRUE,IAD-电信,North America,Ashburn,203 ms,10520
+104.25.102.18,443,TRUE,IAD-电信,North America,Ashburn,211 ms,10277
+172.67.5.161,443,TRUE,IAD-电信,North America,Ashburn,238 ms,10257
+104.25.88.183,443,TRUE,IAD-电信,North America,Ashburn,247 ms,10239
+104.25.121.45,443,TRUE,IAD-电信,North America,Ashburn,226 ms,10166
+104.25.181.143,443,TRUE,IAD-电信,North America,Ashburn,211 ms,10152
+104.25.66.183,443,TRUE,IAD-电信,North America,Ashburn,250 ms,10147
+104.27.101.22,443,TRUE,IAD-电信,North America,Ashburn,246 ms,10111
+104.21.23.183,443,TRUE,LHR-电信,Europe,London,221 ms,10110
+104.20.182.69,443,TRUE,IAD-电信,North America,Ashburn,239 ms,10077
+104.21.111.191,443,TRUE,LHR-电信,Europe,London,212 ms,10031
+104.25.213.33,443,TRUE,IAD-电信,North America,Ashburn,203 ms,10030
+104.21.195.183,443,TRUE,LHR-电信,Europe,London,214 ms,9990
+104.21.100.220,443,TRUE,LHR-电信,Europe,London,204 ms,9986
+104.21.198.183,443,TRUE,LHR-电信,Europe,London,189 ms,9960
+104.21.198.126,443,TRUE,LHR-电信,Europe,London,227 ms,9930
+104.21.100.89,443,TRUE,LHR-电信,Europe,London,212 ms,9921
+104.21.113.183,443,TRUE,LHR-电信,Europe,London,213 ms,9797
+104.21.79.183,443,TRUE,LHR-电信,Europe,London,230 ms,9785
+172.64.30.183,443,TRUE,HAM-电信,Europe,Hamburg,265 ms,5377
+172.64.28.183,443,TRUE,HAM-电信,Europe,Hamburg,269 ms,3426
 172.67.135.63,443,TRUE,HKG-移动,Asia Pacific,Hong Kong,72 ms,9321
 172.67.183.170,443,TRUE,HKG-移动,Asia Pacific,Hong Kong,61 ms,9070
 172.67.175.61,443,TRUE,HKG-移动,Asia Pacific,Hong Kong,83 ms,8990
